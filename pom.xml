@@ -15,6 +15,11 @@
     </repository>
   </repositories>
 
+  <scm>
+    <developerConnection>
+      scm:svn:https://log4jira.googlecode.com/svn/trunk/
+    </developerConnection>
+  </scm>
 
   <build>
     <plugins>
